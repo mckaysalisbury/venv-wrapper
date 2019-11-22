@@ -1,7 +1,7 @@
 #!/bin/sh
 # Usage: PREFIX=/usr/local ./install.sh
 #
-# Installs pyenv-virtualenvwrapper under $PREFIX.
+# Installs venv-wrapper under $PREFIX.
 
 set -e
 
